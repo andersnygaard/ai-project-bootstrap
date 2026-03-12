@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+vendor/
+packages/
+
+# Build output
+dist/
+build/
+out/
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.o
+*.so
+*.dylib
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+*~
+
+# Test results
+TestResults/
+coverage/
+*.trx
+
+# Environment
+.env
+.env.local
+.env.*.local
+.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Package managers
+*.lock.json
+.nuget/
+*.nupkg

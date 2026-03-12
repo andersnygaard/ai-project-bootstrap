@@ -1,0 +1,29 @@
+{
+  "name": "ai-project-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap an AI-assisted development project with Claude Code skills, task board, and specs template",
+  "bin": {
+    "ai-project-bootstrap": "./bin/cli.js"
+  },
+  "keywords": [
+    "ai",
+    "claude",
+    "claude-code",
+    "scaffolding",
+    "project-template",
+    "skills",
+    "task-board"
+  ],
+  "author": "andersnygaard",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andersnygaard/ai-project-bootstrap.git"
+  },
+  "homepage": "https://github.com/andersnygaard/ai-project-bootstrap",
+  "bugs": "https://github.com/andersnygaard/ai-project-bootstrap/issues",
+  "files": [
+    "bin/",
+    "templates/"
+  ]
+}
