@@ -6,7 +6,7 @@ Bootstrap an AI-assisted development project with Claude Code skills, task board
 
 ```bash
 cd your-project-folder
-npx ai-project-bootstrap
+npx https://github.com/andersnygaard/ai-project-bootstrap
 ```
 
 ## What You Get
